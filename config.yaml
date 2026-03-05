@@ -1,0 +1,3 @@
+# Production config
+aws_access_key_id = AKIAEXAMPLE1234TEST
+region = us-west-2
